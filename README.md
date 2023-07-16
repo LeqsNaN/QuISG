@@ -1,4 +1,2 @@
 # QuISG
-Code for "Question-Interlocutor Scope Realized Graph Modeling over Key Utterances for Dialogue Reading Comprehension"
-
-Cleaning up... Uploading soon...
+Being busy dealing with other work. The code will be updated nowadays. 
